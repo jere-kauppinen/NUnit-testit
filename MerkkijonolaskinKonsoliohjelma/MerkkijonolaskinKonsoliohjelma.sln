@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkkijonolaskinKonsoliohjelma", "MerkkijonolaskinKonsoliohjelma\MerkkijonolaskinKonsoliohjelma.csproj", "{93B40FC4-BC7E-484C-A294-6E0AC9823E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkkijonolaskinTests", "MerkkijonolaskinTests\MerkkijonolaskinTests.csproj", "{76ACAD89-C5F9-43C1-A156-8CB35A92185A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B40FC4-BC7E-484C-A294-6E0AC9823E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B40FC4-BC7E-484C-A294-6E0AC9823E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B40FC4-BC7E-484C-A294-6E0AC9823E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B40FC4-BC7E-484C-A294-6E0AC9823E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76ACAD89-C5F9-43C1-A156-8CB35A92185A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76ACAD89-C5F9-43C1-A156-8CB35A92185A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76ACAD89-C5F9-43C1-A156-8CB35A92185A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76ACAD89-C5F9-43C1-A156-8CB35A92185A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E6CCBC-39CB-440B-8D0A-785B24F2BCF3}
+	EndGlobalSection
+EndGlobal
